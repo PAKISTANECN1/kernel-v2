@@ -23,32 +23,18 @@ body {
 }
 
 @font-face {
-    font-family: "Libre Franklin";
-    src: url("/fonts/LibreFranklin-Bold.ttf") format("truetype");
+  font-family: "Apercu";
+  src: url("/fonts/Apercu-Light.woff2") format("woff2");
+  src: url("/fonts/Apercu-Light.woff") format("woff");
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+    font-family: "Apercu";
+    src: url("/fonts/Apercu-Medium.woff2") format("woff2");
+    src: url("/fonts/Apercu-Medium.woff") format("woff");
     font-weight: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Libre Franklin";
-    src: url("/fonts/LibreFranklin-BoldItalic.ttf") format("truetype");
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Libre Franklin";
-    src: url("/fonts/LibreFranklin-Light.ttf") format("truetype");
-    font-weight: lighter;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Libre Franklin";
-    src: url("/fonts/LibreFranklin-LightItalic.ttf") format("truetype");
-    font-weight: lighter;
-    font-style: italic;
     font-display: swap;
 }
 

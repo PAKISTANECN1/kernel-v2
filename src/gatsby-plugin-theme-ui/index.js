@@ -458,9 +458,9 @@ export default {
   },
   fonts: {
     serif: 'Miriam Libre',
-    sanserif: 'Libre Franklin',
+    sanserif: 'Apercu',
     body:
-      'Libre Franklin, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
+      'Apercu, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
     heading:
       'Miriam Libre, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif'
   },

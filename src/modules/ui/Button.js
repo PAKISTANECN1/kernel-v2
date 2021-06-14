@@ -69,7 +69,7 @@ const Button = ({
         <Text
           sx={{
             verticalAlign: willHaveIcon ? 'middle' : '',
-            fontFamily: 'Miriam Libre'
+            fontFamily: 'Apercu'
           }}>
           {children}
         </Text>
@@ -116,7 +116,7 @@ const Button = ({
         <Text
           sx={{
             verticalAlign: willHaveIcon ? 'middle' : '',
-            fontFamily: 'Miriam Libre'
+            fontFamily: 'Apercu'
           }}>
           {children}
         </Text>
